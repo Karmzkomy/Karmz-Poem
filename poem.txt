@@ -1,0 +1,10 @@
+The Rainbow
+
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+This are the colors of the rainbow.
